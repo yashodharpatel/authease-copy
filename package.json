@@ -1,0 +1,19 @@
+{
+  "name": "authease",
+  "version": "1.0.0",
+  "description": "Authease is a comprehensive authentication solution seamlessly integrating backend and frontend for effortless user management.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashodharpatel/authease.git"
+  },
+  "author": "Yashodhar Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashodharpatel/authease/issues"
+  },
+  "homepage": "https://github.com/yashodharpatel/authease#readme"
+}
